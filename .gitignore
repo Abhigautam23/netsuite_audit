@@ -1,3 +1,6 @@
 .DS_Store
 Thumbs.db
 *.log
+
+# Source art; deployed copy is og-image.png for stable URLs
+Netsuite AI readiness.png
